@@ -2,6 +2,6 @@
 
 .ipynb_checkpoints
 
-.vscode
+# .vscode
 
 start_data_science_with_python/data/

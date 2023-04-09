@@ -5,3 +5,5 @@
 # .vscode
 
 start_data_science_with_python/data/
+
+cs101/__pycache__/

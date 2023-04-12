@@ -4,6 +4,6 @@
 
 # .vscode
 
-start_data_science_with_python/data/
+start_data_science_with_python/data/stores/
 
 cs101/__pycache__/
